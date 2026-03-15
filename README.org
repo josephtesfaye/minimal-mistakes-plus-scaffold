@@ -1,0 +1,4 @@
+Minimal Mistakes Plus Scaffold
+
+Use this repository as a template for composing your documentation site using
+the [[https://josephtesfaye.com/minimal-mistakes-plus/][Minimal Mistakes Plus]] plugin.
