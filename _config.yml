@@ -12,34 +12,28 @@ search: true
 search_full_content: true
 
 author:
-  name: Joseph Huang
-  avatar: https://gravatar.com/avatar/e235e747123422d4c7539c152d404bd6ff0680cd7fb5b4a86f2c7bb1ee786900?s=512
+  name: Jane Doe
+  avatar: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-free-feature.png
   bio: An explorer at heart, I navigate the complex architecture of code and science while cultivating a life enriched by the rhythms of art, physical discipline, and the pursuit of quiet truths.
   location: Tokyo, Japan
   links:
     - label: Home
       icon: fas fa-fw fa-home
       url: https://josephtesfaye.com
-    - label: Instagram
-      icon: fab fa-fw fa-instagram
-      url: https://www.instagram.com/orcharinth
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/josephtesfaye
+      url: https://github.com/josephtesfaye/minimal-mistakes-plus-scaffold/
 footer:
   links:
     - label: Home
       icon: fas fa-fw fa-home
       url: https://josephtesfaye.com
-    - label: Instagram
-      icon: fab fa-fw fa-instagram
-      url: https://www.instagram.com/orcharinth
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/josephtesfaye
+      url: https://github.com/josephtesfaye/minimal-mistakes-plus-scaffold/
 
-copyright: Joseph Huang
-copyright_url: /josephs-blog/about/
+copyright: Jane Doe
+copyright_url: /minimal-mistakes-plus-scaffold/about/
 
 include:
   - _pages

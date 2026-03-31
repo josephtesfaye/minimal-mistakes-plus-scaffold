@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/josephtesfaye/minimal-mistakes-plus.git
-  revision: 63e8e49b611887b91231a7c76c8a3459f3247460
+  revision: fa0b5ba0d13a9148141bcf1dded3737a33124054
   branch: main
   specs:
     minimal-mistakes-plus (0.1.0)
